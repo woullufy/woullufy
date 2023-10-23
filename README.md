@@ -7,8 +7,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woullufy&show_icons=true&locale=en&layout=compact" alt="woullufy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=woullufy&show_icons=true&locale=en" alt="woullufy" /></p>
-
 <!---
 - 👋 Hi, I’m @woullufy
 - 👀 I’m interested in ...
